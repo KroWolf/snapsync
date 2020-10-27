@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 config() {
 	cat <<<EOF
-# rotorsync configuration
+# Slapsync configuration
 backup_path="/mnt/snapshot/backups"
 # number of snapshots to keep.
 # automatically rotates system snapshots
